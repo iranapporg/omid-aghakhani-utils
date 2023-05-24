@@ -1,0 +1,15 @@
+{
+    "name": "omid-aghakhani/utils",
+    "description": "contain functional functions",
+    "type": "library",
+    "license": "MIT",
+	"version":"1.0.0",
+	"authors":[{"name":"Omid Aghakhani","email":"info@iranapp.org","role":"owner"}],
+    "minimum-stability": "stable",
+    "require": {},
+	"autoload": {
+		"files" : [
+			"src/utils_helper.php"
+		]
+	}
+}
